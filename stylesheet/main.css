@@ -1,0 +1,32 @@
+html {
+  background: url(../nightride.gif) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  color: white;
+}
+
+h1,
+h2 {
+  text-align: center;
+}
+
+.nav-links {
+  width: 1000px;
+  margin: 0 auto;
+  text-align: center;
+  padding: 0;
+}
+
+.nav-link {
+  border: 2px solid yellow;
+  display: inline-block;
+  width: 100px;
+  text-align: center;
+}
+
+.nav-link a {
+  text-decoration: none;
+  color: white;
+}
